@@ -92,7 +92,7 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
 6. **Abre un Pull Request**
 Ve a la página del repositorio original en GitHub y abre un Pull Request (PR) para que tus cambios sean revisados y, si son adecuados, sean fusionados con el proyecto principal.
 
-Reglas para Contribuir
+## Reglas para Contribuir
 - Asegúrate de que tu código esté bien documentado.
 
 - Añade pruebas si es posible para validar tu código.
@@ -106,14 +106,6 @@ Reglas para Contribuir
 Si tienes alguna duda o pregunta, no dudes en abrir un issue en el repositorio.
 
    ```bash
-    Este texto cubre lo básico de cómo puedes contribuir al proyecto. Te proporciona instrucciones claras y accesibles para los desarrolladores que deseen aportar al código, además de crear una estructura amigable y abierta para contribuciones.
+   Este texto cubre lo básico de cómo puedes contribuir al proyecto. Te proporciona instrucciones claras y accesibles para los desarrolladores que deseen aportar al código, además de crear una estructura amigable y abierta para contribuciones.
    
    Si tienes alguna otra pregunta o necesitas ajustar algo más, ¡avísame! 😊
-
-
-
-
-
-
-
-   
