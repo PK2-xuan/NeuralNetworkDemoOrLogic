@@ -55,8 +55,6 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
 
 3. Ejemplo:
 
-   ```bash
-   Ejemplo de lo que se vería en Postman:
-   <img src="https://github.com/PK2-xuan/NeuralNetworkDemoOrLogic/blob/master/image.png" alt="Imagen de Postman">
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
- <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+Ejemplo de lo que se vería en Postman:
+   
+<img src="https://github.com/PK2-xuan/NeuralNetworkDemoOrLogic/blob/master/image.png" alt="Imagen de Postman">
