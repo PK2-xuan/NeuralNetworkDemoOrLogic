@@ -27,7 +27,7 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/PK2-xuan/NeuralNetworkDemoOrLogic.git
 
    cd tu-repositorio
    
@@ -35,16 +35,28 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
 
    http://localhost:8080
 
-2. Uso:
+## Uso
+2. Uso en Postman:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-
-   cd tu-repositorio
+   Realiza una solicitud POST en Postman:
+   POST http://localhost:8080/api/predict
    
-   mvn spring-boot:run
+   En el cuerpo de la solicitud (BODY): 
+   {
+     "inputs": [0.1, 1]
+   }
 
-   http://localhost:8080
+   Respuesta esperada:
+   {
+     "Predicción (decimal)": "0.3926",
+     "Predicción (0 o 1)": 0
+   }
+
+3. Ejemplo:
+
+   ```bash
+   Ejemplo de lo que se vería en Postman:
 
 
 
