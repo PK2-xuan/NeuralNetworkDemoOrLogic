@@ -111,7 +111,6 @@ Ve a la página del repositorio original en GitHub y abre un Pull Request (PR) p
    
    Si tienes alguna otra pregunta o necesitas ajustar algo más, ¡avísame! 😊
 
-
 ## Licencia
 
 MIT License
