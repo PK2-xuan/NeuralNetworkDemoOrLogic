@@ -57,6 +57,8 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
 
    ```bash
    Ejemplo de lo que se vería en Postman:
+   ![Imagen de Postman](https://github.com/PK2-xuan/NeuralNetworkDemoOrLogic/blob/master/image.png)
+
 
 
 
