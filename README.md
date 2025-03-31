@@ -1,6 +1,6 @@
 # Neural Network Prediction API
 
-Este proyecto utiliza Spring Boot y Deeplearning4j para crear una API REST que realiza predicciones utilizando una red neuronal entrenada. La API recibe datos de entrada en formato JSON y devuelve las[...]
+Este proyecto utiliza Spring Boot y Deeplearning4j para crear una API REST que realiza predicciones utilizando una red neuronal entrenada. La API recibe datos de entrada en formato JSON y devuelve las predicciones en formato JSON.
 
 ## Tabla de Contenidos
 1. [Descripción](#descripción)
@@ -13,7 +13,7 @@ Este proyecto utiliza Spring Boot y Deeplearning4j para crear una API REST que r
 
 ## Descripción
 
-Este proyecto es una API REST que permite realizar predicciones utilizando una red neuronal entrenada. Se utiliza Deeplearning4j para el modelo de red neuronal y Spring Boot para exponer la API. El mo[...]
+Este proyecto es una API REST que permite realizar predicciones utilizando una red neuronal entrenada. Se utiliza Deeplearning4j para el modelo de red neuronal y Spring Boot para exponer la API. El modelo realiza una predicción en base a las entradas proporcionadas y devuelve un valor decimal, así como una predicción binaria (0 o 1) dependiendo de si el valor es mayor o menor que 0.5.
 
 ## Tecnologías Utilizadas
 
@@ -89,7 +89,26 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
    ```bash
    git push origin nombre-de-tu-rama
 
+6. **Abre un Pull Request**
+Ve a la página del repositorio original en GitHub y abre un Pull Request (PR) para que tus cambios sean revisados y, si son adecuados, sean fusionados con el proyecto principal.
 
+Reglas para Contribuir
+- Asegúrate de que tu código esté bien documentado.
+
+- Añade pruebas si es posible para validar tu código.
+
+- Si estás corrigiendo un bug, intenta reproducir el error antes de solucionarlo.
+
+- Sigue el estilo de codificación del proyecto.
+
+¡Espero tu contribución!
+
+Si tienes alguna duda o pregunta, no dudes en abrir un issue en el repositorio.
+
+   ```bash
+    Este texto cubre lo básico de cómo puedes contribuir al proyecto. Te proporciona instrucciones claras y accesibles para los desarrolladores que deseen aportar al código, además de crear una estructura amigable y abierta para contribuciones.
+   
+   Si tienes alguna otra pregunta o necesitas ajustar algo más, ¡avísame! 😊
 
 
 
