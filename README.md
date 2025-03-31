@@ -53,8 +53,9 @@ Este proyecto es una API REST que permite realizar predicciones utilizando una r
      "Predicción (0 o 1)": 0
    }
 
-3. Ejemplo:
+## Ejemplo:
 
-Ejemplo de lo que se vería en Postman:
+3. Ejemplo de lo que se vería en Postman:
    
-<img src="https://github.com/PK2-xuan/NeuralNetworkDemoOrLogic/blob/master/image.png" alt="Imagen de Postman">
+<img src="https://github.com/PK2-xuan/NeuralNetworkDemoOrLogic/blob/master/image.png" alt="Imagen de Postman" height="300" width="400">
+
