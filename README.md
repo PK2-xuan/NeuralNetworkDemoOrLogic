@@ -9,7 +9,6 @@ Este proyecto utiliza Spring Boot y Deeplearning4j para crear una API REST que r
 4. [Uso](#uso)
 5. [Ejemplo](#ejemplo)
 6. [Contribuir](#contribuir)
-7. [Licencia](#licencia)
 
 ## Descripción
 
@@ -106,7 +105,8 @@ Ve a la página del repositorio original en GitHub y abre un Pull Request (PR) p
 Si tienes alguna duda o pregunta, no dudes en abrir un issue en el repositorio.
 
    ```bash
-   Este texto cubre lo básico de cómo puedes contribuir al proyecto. Te proporciona instrucciones claras y accesibles para los desarrolladores
-   que deseen aportar al código, además de crear una estructura amigable y abierta para contribuciones.
+   Este texto cubre lo básico de cómo puedes contribuir al proyecto. Te proporciona instrucciones claras
+   y accesibles para los desarrolladores que deseen aportar al código, además de crear una estructura
+   amigable y abierta para contribuciones.
    
    Si tienes alguna otra pregunta o necesitas ajustar algo más, ¡avísame! 😊
