@@ -113,7 +113,7 @@ Ve a la página del repositorio original en GitHub y abre un Pull Request (PR) p
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
+1. Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
 
    ```bash
 
