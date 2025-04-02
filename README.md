@@ -117,8 +117,6 @@ Este proyecto está bajo la licencia [MIT License](./LICENSE.txt).
 
    ```bash
 
-   Solo recuerda que este texto debe ir en el archivo `LICENSE` para mantener la claridad del
-   proyecto. De este modo, la licencia queda clara tanto en el `README.md` como en el archivo
-   de la propia licencia.
+   
+   La licencia queda clara en el archivo de la propia licencia. 🙌
 
-   ¡Todo está muy bien hecho! 🙌
